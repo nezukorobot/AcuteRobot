@@ -1,4 +1,4 @@
-rom pyrogram import *
+from pyrogram import *
 from pyrogram.handlers import *
 from src.anime_search import anime_search
 from src.start_message import start_message
